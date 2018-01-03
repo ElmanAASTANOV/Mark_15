@@ -1,0 +1,10 @@
+C:\Projects\DotNETcore\mark_15\ServerSide\bin\Debug\netcoreapp2.0\ServerSide.deps.json
+C:\Projects\DotNETcore\mark_15\ServerSide\bin\Debug\netcoreapp2.0\ServerSide.runtimeconfig.json
+C:\Projects\DotNETcore\mark_15\ServerSide\bin\Debug\netcoreapp2.0\ServerSide.runtimeconfig.dev.json
+C:\Projects\DotNETcore\mark_15\ServerSide\bin\Debug\netcoreapp2.0\ServerSide.dll
+C:\Projects\DotNETcore\mark_15\ServerSide\bin\Debug\netcoreapp2.0\ServerSide.pdb
+C:\Projects\DotNETcore\mark_15\ServerSide\obj\Debug\netcoreapp2.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Projects\DotNETcore\mark_15\ServerSide\obj\Debug\netcoreapp2.0\ServerSide.AssemblyInfoInputs.cache
+C:\Projects\DotNETcore\mark_15\ServerSide\obj\Debug\netcoreapp2.0\ServerSide.AssemblyInfo.cs
+C:\Projects\DotNETcore\mark_15\ServerSide\obj\Debug\netcoreapp2.0\ServerSide.dll
+C:\Projects\DotNETcore\mark_15\ServerSide\obj\Debug\netcoreapp2.0\ServerSide.pdb

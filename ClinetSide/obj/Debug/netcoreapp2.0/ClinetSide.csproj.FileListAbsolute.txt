@@ -1,0 +1,10 @@
+C:\Projects\DotNETcore\mark_15\ClinetSide\bin\Debug\netcoreapp2.0\ClinetSide.deps.json
+C:\Projects\DotNETcore\mark_15\ClinetSide\bin\Debug\netcoreapp2.0\ClinetSide.runtimeconfig.json
+C:\Projects\DotNETcore\mark_15\ClinetSide\bin\Debug\netcoreapp2.0\ClinetSide.runtimeconfig.dev.json
+C:\Projects\DotNETcore\mark_15\ClinetSide\bin\Debug\netcoreapp2.0\ClinetSide.dll
+C:\Projects\DotNETcore\mark_15\ClinetSide\bin\Debug\netcoreapp2.0\ClinetSide.pdb
+C:\Projects\DotNETcore\mark_15\ClinetSide\obj\Debug\netcoreapp2.0\ClinetSide.csproj.CoreCompileInputs.cache
+C:\Projects\DotNETcore\mark_15\ClinetSide\obj\Debug\netcoreapp2.0\ClinetSide.AssemblyInfoInputs.cache
+C:\Projects\DotNETcore\mark_15\ClinetSide\obj\Debug\netcoreapp2.0\ClinetSide.AssemblyInfo.cs
+C:\Projects\DotNETcore\mark_15\ClinetSide\obj\Debug\netcoreapp2.0\ClinetSide.dll
+C:\Projects\DotNETcore\mark_15\ClinetSide\obj\Debug\netcoreapp2.0\ClinetSide.pdb
